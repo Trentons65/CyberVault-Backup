@@ -25,13 +25,14 @@
             "id": "8d5e79cc161abf44",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
+                "file": "RaspberryPiProject/Lab 2 - Backup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "Lab 2 - Backup"
             }
           }
         ],
@@ -190,6 +191,7 @@
   },
   "active": "8d5e79cc161abf44",
   "lastOpenFiles": [
+    "RaspberryPiProject/Images/Pi5LAB02_USBdetected.png",
     "RaspberryPiProject/Lab 3 - SSH Login.md",
     "RaspberryPiProject/Lab 2 - Backup.md",
     "Remote-Backup/Lab 2 - Backup 1.md",
@@ -210,7 +212,6 @@
     "RaspberryPiProject/Images/Pi5LAB03_USB.png",
     "RaspberryPiProject/Images/Pi5LAB03_PcEthConnection.png",
     "RaspberryPiProject/Images/Pi5LAB03_PiEthConnection.png",
-    "RaspberryPiProject/Images/Pi5LAB02_USBdetected.png",
     "RaspberryPiProject/Images/Pi5LAB02_BackupFinished.png",
     "RaspberryPiProject/Lab 1 - Setup.md",
     "School/Files/Pasted image 20240207143914.png",
@@ -232,7 +233,6 @@
     "School/CCNA Exam Topics/2.0 Network Access.md",
     "Archive/Capstone/Annotated Outline.md",
     "Archive/Capstone/Info Sec Gov Book/Chapter 2 -.md",
-    "Archive/Capstone/Final Project.md",
     "Archive/Capstone/Info Sec Gov Book",
     "Archive/Capstone",
     "Archive/Cyber-Psych"
