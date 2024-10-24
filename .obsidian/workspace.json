@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RaspberryPiProject/Lab 2 - Backup.md",
+                "file": "RaspberryPiProject/Lab 3 - SSH Login.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 2 - Backup"
+              "title": "Lab 3 - SSH Login"
             }
           }
         ],
@@ -191,8 +191,8 @@
   },
   "active": "8d5e79cc161abf44",
   "lastOpenFiles": [
-    "Remote-Backup/Lab 2 - Backup 1.md",
     "RaspberryPiProject/Lab 2 - Backup.md",
+    "Remote-Backup/Lab 2 - Backup 1.md",
     "RaspberryPiProject/Lab 5 - Kismet.md",
     "RaspberryPiProject/Lab 3 - SSH Login.md",
     "Remote-Backup",
