@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "34df83bbc1eb3767",
+    "type": "split",
+    "children": [
+      {
+        "id": "c190c979b52e7d80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fa45a913f54e69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RaspberryPiProject/Lab 2 - Backup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab 2 - Backup"
+            }
+          },
+          {
+            "id": "8d5e79cc161abf44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RaspberryPiProject/Lab 2 - Backup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab 2 - Backup"
+            }
+          },
+          {
+            "id": "af20ab7be58e70c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remote-Backup/Lab 2 - Backup 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab 2 - Backup 1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "366a80fee7e5b8f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "655646fdd4a09057",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7db12168a3461418",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ad73f7d92e5472c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ac8a08a456aeb516",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77779219859a872c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbbc91c481e4bf75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69da1f2586817e30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RaspberryPiProject/Lab 2 - Backup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lab 2 - Backup"
+            }
+          },
+          {
+            "id": "62478cdb2bb44f09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RaspberryPiProject/Lab 2 - Backup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lab 2 - Backup"
+            }
+          },
+          {
+            "id": "4fc6f7451e85fe22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c49b9171ff1ae9cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Remote-Backup/Lab 2 - Backup 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lab 2 - Backup 1"
+            }
+          },
+          {
+            "id": "e6cb0dc0f297e71c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e6cb0dc0f297e71c",
+  "lastOpenFiles": [
+    "Remote-Backup/Lab 2 - Backup 1.md",
+    "RaspberryPiProject/Lab 2 - Backup.md",
+    "RaspberryPiProject/Lab 5 - Kismet.md",
+    "RaspberryPiProject/Lab 3 - SSH Login.md",
+    "Remote-Backup",
+    "School/CCNA Exam Topics/Notes.md",
+    "Shopping List.md",
+    "RaspberryPiProject/Lab 4 - Aircrack-NG.md",
+    "RaspberryPiProject/Images/Pi5Lab02_BackupCommands.png",
+    "Archive/IT Support Certificate/Overclocking CPU.md",
+    "Archive/IT Support Certificate/Windows Troubleshooting.md",
+    "Archive/IT Support Certificate/Group Policy Management Troubleshooting.md",
+    "Archive/IT Support Certificate/Networking Scenarios and Solutions.md",
+    "Archive/IT Support Certificate",
+    "RaspberryPiProject/Images/Pi5LAB04_AirmonWifi.png",
+    "RaspberryPiProject/Images/Pi5LAB03_SSH.png",
+    "RaspberryPiProject/Images/Pi5LAB03_sshdpubkey.png",
+    "RaspberryPiProject/Images/Pi5LAB03_USB.png",
+    "RaspberryPiProject/Images/Pi5LAB03_PcEthConnection.png",
+    "RaspberryPiProject/Images/Pi5LAB03_PiEthConnection.png",
+    "RaspberryPiProject/Images/Pi5LAB02_USBdetected.png",
+    "RaspberryPiProject/Images/Pi5LAB02_BackupFinished.png",
+    "RaspberryPiProject/Lab 1 - Setup.md",
+    "School/Files/Pasted image 20240207143914.png",
+    "School/Files",
+    "RaspberryPiProject/Untitled",
+    "School/Projects to do.md",
+    "School/Cyber Crime/Mobile Forensics/Mobile Forensics Standard Operation Processes.md",
+    "School/Resume.md",
+    "RaspberryPiProject/Images",
+    "IT Support Certificate/Networking Scenarios and Solutions.md",
+    "RaspberryPiProject",
+    "IT Support Certificate/Group Policy Management Troubleshooting.md",
+    "IT Support Certificate/Windows Troubleshooting.md",
+    "School/Cyber Crime/Mobile Forensics",
+    "School/CCNA Exam Topics/5.0 Security Fundamentals.md",
+    "School/CCNA Exam Topics/4.0 IP Services.md",
+    "School/CCNA Exam Topics/3.0 IP Connectivity.md",
+    "School/CCNA Exam Topics/1.0 Network Fundamentals.md",
+    "School/CCNA Exam Topics/2.0 Network Access.md",
+    "Archive/Capstone/Annotated Outline.md",
+    "Archive/Capstone/Info Sec Gov Book/Chapter 2 -.md",
+    "Archive/Capstone/Final Project.md",
+    "Archive/Capstone/Info Sec Gov Book",
+    "Archive/Capstone",
+    "Archive/Cyber-Psych"
+  ]
+}
