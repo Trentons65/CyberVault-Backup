@@ -22,6 +22,8 @@ I entered `2` to choose the correct deauth attack
 You will then be prompted to enable DoS pursuit mode which I was unable to do without a second interface. You can also spoof your MAC address which I did opt to do.
 ![Pi5LAB07_Airgeddonaviltwincapture](https://github.com/user-attachments/assets/ba8801ca-525b-4392-9d5f-aeee50b30b7c)
 
+You will need a host connected to the AP in order to capture a handshake
+
 ![Pi5LAB07_Airgeddoneviltwincaptiveportal](https://github.com/user-attachments/assets/6987fa9a-a506-4023-8bde-8eef51294eef)
 
 
