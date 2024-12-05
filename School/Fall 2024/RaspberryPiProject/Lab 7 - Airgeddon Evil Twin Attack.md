@@ -5,7 +5,8 @@ Clone into the Airgeddon github repository
 
 `sudo ./airgeddon.sh`
 Once you run the command you will be prompted with a system check for dependencies. I had to manually install hostapd, isc-dhcp-server, lighttpd, xterm, and mdk4 to enable the options later. 
-![[Pi5LAB07_Airgeddonlaunch.png]]
+[![[Pi5LAB07_Airgeddonlaunch.png]]](https://github.com/Trentons65/CyberVault-Backup/blob/main/School/Fall%202024/RaspberryPiProject/Images/Pi5LAB07_Airgeddonlaunch.png?raw=true
+)
 
 I Entered `3` into the terminal to choose the correct interface (needs to have monitor mode capabilities) 
 
