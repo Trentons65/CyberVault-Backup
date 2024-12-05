@@ -17,7 +17,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": true,
   "refreshSourceControl": true,
-  "basePath": "",
+  "basePath": "Remote-Backup",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,

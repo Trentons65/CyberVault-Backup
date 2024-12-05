@@ -62,7 +62,7 @@
 - **Mirroring** - Same data stored on two different disks (Two copies of data)
 - **Parity** - Ensures protection w/out maintaining full set of dupe data, computed as combination of data bits spread between multiple drives
 ### RAID Levels
-![[Attachments/Pasted image 20240119001459.png]]
+![[Pasted image 20240119001459.png]]
 **RAID 0 (Striping)** 
 - Uses two disks and stripes between (Highest speed)
 **RAID 1 (Mirroring)**

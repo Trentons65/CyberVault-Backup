@@ -80,7 +80,7 @@ Defines type of service the cloud provider is offering
 - JSON (JavaScript Object Notation) is commonly used for data format.
 - Developers use HTTP requests to ask for JSON-formatted data.
 - If correctly formatted as per API documentation, the server responds with JSON data.
-![[Attachments/Pasted image 20240116211543.png]]
+![[Pasted image 20240116211543.png]]
 #### Characteristics of SaaS (Software as a Service)
 - Most popular service model.
 - SaaS applications are cloud-native and multitenant.
@@ -90,7 +90,7 @@ Defines type of service the cloud provider is offering
 - Applications accessible anytime from anywhere using any client device (device and location independence).
 
 ### Shared Responsibility Model
-![[Attachments/Pasted image 20240116205551.png]]
+![[Pasted image 20240116205551.png]]
 
 ## Considerations for Cloud Adoption
 

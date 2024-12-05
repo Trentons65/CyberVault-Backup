@@ -11,32 +11,42 @@
             "id": "3fa45a913f54e69d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "RaspberryPiProject/Lab 2 - Backup.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB04_AirmonWifi.png"
               },
-              "icon": "lucide-file",
-              "title": "Lab 2 - Backup"
+              "icon": "lucide-image",
+              "title": "Pi5LAB04_AirmonWifi"
             }
           },
           {
-            "id": "8d5e79cc161abf44",
+            "id": "a6845583fbd5da26",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB04_AirmonWifi 1.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pi5LAB04_AirmonWifi 1"
+            }
+          },
+          {
+            "id": "c7e076296b4502d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RaspberryPiProject/Lab 2 - Backup.md",
+                "file": "School/Fall 2024/RaspberryPiProject/Lab 7 - Airgeddon Evil Twin Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 2 - Backup"
+              "title": "Lab 7 - Airgeddon Evil Twin Attack"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "77779219859a872c",
@@ -127,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RaspberryPiProject/Lab 2 - Backup.md",
+                "file": "School/Fall 2024/RaspberryPiProject/Lab 7 - Airgeddon Evil Twin Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lab 2 - Backup"
+              "title": "Outgoing links from Lab 7 - Airgeddon Evil Twin Attack"
             }
           },
           {
@@ -154,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remote-Backup/Lab 2 - Backup 1.md"
+                "file": "School/Fall 2024/RaspberryPiProject/Lab 7 - Airgeddon Evil Twin Attack.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab 2 - Backup 1"
+              "title": "Outline of Lab 7 - Airgeddon Evil Twin Attack"
             }
           },
           {
@@ -186,56 +196,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8d5e79cc161abf44",
+  "active": "e6cb0dc0f297e71c",
   "lastOpenFiles": [
-    "RaspberryPiProject/Lab 2 - Backup 1.md",
-    "RaspberryPiProject/Lab 2 - Backup.md",
-    "RaspberryPiProject/Images/Pi5LAB02_USBdetected.png",
-    "RaspberryPiProject/Lab 3 - SSH Login.md",
-    "Remote-Backup/Lab 2 - Backup 1.md",
-    "RaspberryPiProject/Lab 5 - Kismet.md",
-    "Remote-Backup",
-    "School/CCNA Exam Topics/Notes.md",
-    "Shopping List.md",
-    "RaspberryPiProject/Lab 4 - Aircrack-NG.md",
-    "RaspberryPiProject/Images/Pi5Lab02_BackupCommands.png",
-    "Archive/IT Support Certificate/Overclocking CPU.md",
-    "Archive/IT Support Certificate/Windows Troubleshooting.md",
-    "Archive/IT Support Certificate/Group Policy Management Troubleshooting.md",
-    "Archive/IT Support Certificate/Networking Scenarios and Solutions.md",
-    "Archive/IT Support Certificate",
-    "RaspberryPiProject/Images/Pi5LAB04_AirmonWifi.png",
-    "RaspberryPiProject/Images/Pi5LAB03_SSH.png",
-    "RaspberryPiProject/Images/Pi5LAB03_sshdpubkey.png",
-    "RaspberryPiProject/Images/Pi5LAB03_USB.png",
-    "RaspberryPiProject/Images/Pi5LAB03_PcEthConnection.png",
-    "RaspberryPiProject/Images/Pi5LAB03_PiEthConnection.png",
-    "RaspberryPiProject/Images/Pi5LAB02_BackupFinished.png",
-    "RaspberryPiProject/Lab 1 - Setup.md",
-    "School/Files/Pasted image 20240207143914.png",
-    "School/Files",
-    "RaspberryPiProject/Untitled",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB07_Airgeddoneviltwincaptiveportal.png",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB07_Airgeddoninterface.png",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB07_Airgeddonlaunch.png",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5Lab02_BackupCommands.png",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB02_BackupFinished.png",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB02_USBdetected.png",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB03_PcEthConnection.png",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB03_PiEthConnection.png",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB03_SSH.png",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB03_sshdpubkey.png",
+    "School/Fall 2024/RaspberryPiProject/Images/Pi5LAB03_USB.png",
+    "School/Fall 2024/RaspberryPiProject/Lab 7 - Airgeddon Evil Twin Attack.md",
+    "School/Fall 2024/RaspberryPiProject/Lab 4 - Aircrack-NG.md",
+    "School/Fall 2024/RaspberryPiProject/Lab 5 - Kismet.md",
+    "School/Fall 2024/RaspberryPiProject/Lab 6 - Fern WiFi Cracker.md",
+    "Fern.md",
+    "School/Fall 2024/Mobile Forensics/Slides/Lab 6 Presentation.md",
+    "School/Fall 2024/RaspberryPiProject/Lab 3 - SSH Login.md",
+    "School/Fall 2024/RaspberryPiProject/Lab 2 - Backup.md",
+    "School/Fall 2024/Mobile Forensics/Slides",
+    "School/Fall 2024/Mobile Forensics/Advanced iOS Analysis.md",
     "School/Projects to do.md",
+    "School/Fall 2024/Labs/Authentication.md",
+    "School/Fall 2024/Labs/Authorization.md",
+    "Mobile Forensics 1/Untitled.md",
+    "School/Fall 2024",
     "School/Cyber Crime/Mobile Forensics/Mobile Forensics Standard Operation Processes.md",
-    "School/Resume.md",
-    "RaspberryPiProject/Images",
-    "IT Support Certificate/Networking Scenarios and Solutions.md",
-    "RaspberryPiProject",
-    "IT Support Certificate/Group Policy Management Troubleshooting.md",
-    "IT Support Certificate/Windows Troubleshooting.md",
-    "School/Cyber Crime/Mobile Forensics",
-    "School/CCNA Exam Topics/5.0 Security Fundamentals.md",
-    "School/CCNA Exam Topics/4.0 IP Services.md",
-    "School/CCNA Exam Topics/3.0 IP Connectivity.md",
+    "School/CCNA Exam Topics/Notes.md",
     "School/CCNA Exam Topics/1.0 Network Fundamentals.md",
-    "School/CCNA Exam Topics/2.0 Network Access.md",
-    "Archive/Capstone/Annotated Outline.md",
-    "Archive/Capstone/Info Sec Gov Book/Chapter 2 -.md",
-    "Archive/Capstone/Info Sec Gov Book",
-    "Archive/Capstone",
-    "Archive/Cyber-Psych"
+    "School/Fall 2024/Pentesting/IoT/IoT Security.md",
+    "Shopping List.md",
+    "School/Fall 2024/Mobile Forensics/Reversing.md",
+    "School/Fall 2024/Pentesting/IoT",
+    "School/Fall 2024/Pentesting",
+    "School/Fall 2024/Mobile Forensics/README.md",
+    "School/Fall 2024/Mobile Forensics/Bypass SSL pinning.md",
+    "School/Fall 2024/Mobile Forensics/Dynamic Analysis.md",
+    "School/Fall 2024/Mobile Forensics/Static Analysis.md",
+    "Keys/Anthropic/test-key.md",
+    "School/Fall 2024/Mobile Forensics",
+    "Keys/Anthropic",
+    "Keys",
+    "Remote-Backup/Course_Notes/Life_of_a_Packet.md",
+    "School/Fall 2024/Labs",
+    "Remote-Backup/Course_Notes",
+    "Remote-Backup"
   ]
 }
