@@ -8,7 +8,7 @@ First you need to verify what device you attached the USB drive to.
 
 This command will list the drives attached to your system. You want to ignore the mmcblk device because that is the microSD card port on your Raspberry Pi. 
 
-![[Pi5LAB02_USBdetected.png]]
+![[Pi5LAB02_USBdetected.png]](https://github.com/Trentons65/CyberVault-Backup/blob/3a9a2bbe2795409e27db7371ae8890e0c6b509be/School/Fall%202024/RaspberryPiProject/Images/Pi5LAB02_USBdetected.png)
 
 On my system, this was /dev/sda1 (the partition for the removable flash drive). Then you want to issue the following command:
 
